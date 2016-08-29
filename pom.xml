@@ -294,6 +294,12 @@
             <email>damiths AT wso2.com</email>
             <organization>WSO2</organization>
         </developer>
+        <developer>
+            <name>Jayanga Kaushalya</name>
+            <id>jayangak</id>
+            <email>jayangak AT wso2.com</email>
+            <organization>WSO2</organization>
+        </developer>
     </developers>
 
 
@@ -1174,10 +1180,10 @@
         <!--Identity Repo Versions-->
         <identity.local.auth.basicauth.version>5.1.2-SNAPSHOT</identity.local.auth.basicauth.version>
         <identity.outbound.auth.oidc.version>5.1.2-SNAPSHOT</identity.outbound.auth.oidc.version>
-        <identity.carbon.auth.saml2.version>5.1.2</identity.carbon.auth.saml2.version>
+        <identity.carbon.auth.saml2.version>5.1.3</identity.carbon.auth.saml2.version>
         <identity.inbound.auth.saml.version>5.1.2-SNAPSHOT</identity.inbound.auth.saml.version>
-        <identity.outbound.auth.samlsso.version>5.1.2</identity.outbound.auth.samlsso.version>
-        <identity.inbound.auth.oauth.version>5.1.2</identity.inbound.auth.oauth.version>
+        <identity.outbound.auth.samlsso.version>5.1.3-SNAPSHOT</identity.outbound.auth.samlsso.version>
+        <identity.inbound.auth.oauth.version>5.1.3-SNAPSHOT</identity.inbound.auth.oauth.version>
         <identity.inbound.auth.openid.version>5.1.2-SNAPSHOT</identity.inbound.auth.openid.version>
         <identity.agent.sso.version>5.1.2-SNAPSHOT</identity.agent.sso.version>
         <identity.inbound.auth.sts.version>5.1.2-SNAPSHOT</identity.inbound.auth.sts.version>
@@ -1216,7 +1222,7 @@
         <!--<identity.userstore.cassandra.version>5.1.1</identity.userstore.cassandra.version>-->
         <!--<identity.agent-entitlement-filter.version>5.1.1</identity.agent-entitlement-filter.version>-->
         <!--Identity Repo Versions End-->
-        
+
         <product.identity.version>5.2.0-SNAPSHOT</product.identity.version>
         <bcprov.jdk13.version>140</bcprov.jdk13.version>
         <bcprov.jdk15.version>132</bcprov.jdk15.version>
@@ -1231,13 +1237,13 @@
         <opensaml2.wso2.version>2.6.4.wso2v3</opensaml2.wso2.version>
         <joda.version>2.8.2</joda.version>
         <joda.wso2.version>2.8.2.wso2v1</joda.wso2.version>
-        <wss4j.wso2.version>1.5.11.wso2v14</wss4j.wso2.version>
-        <openws.version>1.4.1</openws.version>
+        <wss4j.wso2.version>1.5.11.wso2v15-SNAPSHOT</wss4j.wso2.version>
+        <openws.version>1.5.4</openws.version>
         <charon.version>2.0.6</charon.version>
         <xalan.version>2.7.1</xalan.version>
         <xalan.wso2.version>2.7.0.wso2v1</xalan.wso2.version>
-        <rampart.wso2.version>1.6.1.wso2v21</rampart.wso2.version>
-        <rampart.wso2.version.1>1.6.1-wso2v21</rampart.wso2.version.1>
+        <rampart.wso2.version>1.6.1.wso2v22-SNAPSHOT</rampart.wso2.version>
+        <rampart.wso2.version.1>1.6.1-wso2v22-SNAPSHOT</rampart.wso2.version.1>
         <orbit.version.commons.httpclient>4.2.5.wso2v1</orbit.version.commons.httpclient>
         <commons.httpclient.version>3.1</commons.httpclient.version>
         <httpcore.wso2.version>4.3.3.wso2v1</httpcore.wso2.version>
@@ -1317,13 +1323,13 @@
         <jacoco.agent.version>0.7.5.201505241946</jacoco.agent.version>
         <project.scm.id>my-scm-server</project.scm.id>
         <carbon.business-process.version>4.4.9</carbon.business-process.version>
-        <carbon.analytics-common.version>5.1.0</carbon.analytics-common.version>
+        <carbon.analytics-common.version>5.1.1</carbon.analytics-common.version>
         <osgi.framework.imp.pkg.version.range>[1.7.0, 2.0.0)</osgi.framework.imp.pkg.version.range>
         <osgi.service.component.imp.pkg.version.range>[1.2.0, 2.0.0)</osgi.service.component.imp.pkg.version.range>
         <org.apache.tomcat.wso2.version>7.0.52.wso2v5</org.apache.tomcat.wso2.version>
         <xmlsec.version>1.4.4</xmlsec.version>
         <xmltooling.version>1.3.1</xmltooling.version>
-        <carbon.metrics.version>1.1.1</carbon.metrics.version>
+        <carbon.metrics.version>1.2.2</carbon.metrics.version>
         <xercesImpl.version>2.8.1</xercesImpl.version>
         <commons.codec.version>1.8</commons.codec.version>
         <XmlSchema.version>1.4.7.wso2v3</XmlSchema.version>
